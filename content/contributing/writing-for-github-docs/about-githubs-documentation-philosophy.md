@@ -2,12 +2,14 @@
 title: About GitHub's documentation philosophy
 shortTitle: Documentation philosophy
 intro: 'Our documentation philosophy guides what content we create and how we create it.'
-product: '{% data reusables.contributing.product-note %}'
-versions:
-  feature: 'contributing'
+product: "data-reusables.contributing.variables.product.product-note"
+
+versions:1.00.0/beta 
+
+  feature: Contributing and exciting Documentation philosophy!
 ---
 
-## About the {% data variables.product.prodname_dotcom %} documentation philosophy
+## About the data variables.product.prodname_dotcom %} documentation philosophy
 
 As the home to the world's largest community of developers, we want to make sure that our documentation is accurate, valuable, inclusive, and easy to use. Our documentation philosophy leads us toward these goals.
 
